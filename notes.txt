@@ -1,0 +1,2 @@
+MS Edge version: Version 113.0.1774.50 (Official build) (64-bit)
+Webdriver manager for Python: https://github.com/SergeyPirogov/webdriver_manager
